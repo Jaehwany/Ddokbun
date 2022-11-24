@@ -21,6 +21,7 @@ export const Wrapper = styled(motion.div)`
     display: flex;
     justify-content: center;
     align-items: center;
+    text-align: center;
     margin-left: 70px;
     width: 60%;
     h2 {
@@ -100,7 +101,6 @@ export const Wrapper = styled(motion.div)`
         font-size: 13px;
       }
     }
-<<<<<<< HEAD
     .button-wrap {
       margin-top: 20px;
       text-align: center;
@@ -112,7 +112,5 @@ export const Wrapper = styled(motion.div)`
         cursor: pointer;
       }
     }
-=======
->>>>>>> bb742820745f22b9854757d193674087ac9c5fca
   }
 `;
