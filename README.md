@@ -1,6 +1,6 @@
 # <img src="README.assets/logo.png" align="left" width="40" height="40">IoT 화분 관리 및 식물 E-커머스 플랫폼, DDOKBUN
 
-> <h3> 똑똑한 화분, 똑분이
+> <h3> 똑똑한 화분, 똑분
 
 ![image](README.assets/banner.png)
 
